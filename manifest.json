@@ -1,0 +1,7 @@
+{
+ "version": 1,
+ "encrypted": true,
+ "kdf": "PBKDF2-SHA256",
+ "iterations": 600000,
+ "salt": "75a0be8d1b242192be6a0fa60eaf8321"
+}
